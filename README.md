@@ -12,4 +12,4 @@
    npm i yargs
    or
    npm i yargs@15.1.0
-* fs(File System) is inbuilt lirary in node.js.
+* fs(File System) is a inbuilt lirary in node.js.
