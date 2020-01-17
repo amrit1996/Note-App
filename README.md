@@ -13,3 +13,15 @@
    or
    npm i yargs@15.1.0
 * fs(File System) is a inbuilt lirary in node.js.
+### Commands to run the Note Application
+* To create note:
+* node app.js add --title="title" --body="body"
+* Remove Note:
+* node app.js remove --title="title"
+* List Note:
+* node list - This command will show all list of the note app.
+* Read Note:
+* node app.js read --title="title"
+* This read command will read the specified data that are given by user.
+
+ 
