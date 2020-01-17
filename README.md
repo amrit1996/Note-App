@@ -19,7 +19,7 @@
 * Remove Note:
 * node app.js remove --title="title"
 * List Note:
-* node list - This command will show all list of the note app.
+* node app.js list - This command will show all list of the note app.
 * Read Note:
 * node app.js read --title="title"
 * This read command will read the specified data that are given by user.
